@@ -9,7 +9,7 @@
 <summary><b>🇬🇧 English</b> — click to toggle</summary>
 <br>
 
-Software developer based in Alicante, Spain. I build practical products and automate workflows — Python, TypeScript, React, and whatever gets a real problem solved.
+Software developer based in Spain. I build practical products and automate workflows — Python, TypeScript, React, and whatever gets a real problem solved.
 
 - 🔭 Currently building **Itza Studio**, turning repetitive manual processes into software
 - 🧠 Into AI-assisted automation, deterministic system design, and CRM/process tooling
@@ -38,7 +38,7 @@ If you want to know more about my private projects, or what I do; feel free to c
 <summary><b>🇪🇸 Español</b> — clic para alternar</summary>
 <br>
 
-Desarrollador de software con base en Alicante, España. Construyo productos prácticos y automatizo flujos de trabajo — Python, TypeScript, React, y lo que resuelva un problema real.
+Desarrollador de software con base en España. Construyo productos prácticos y automatizo flujos de trabajo — Python, TypeScript, React, y lo que resuelva un problema real.
 
 - 🔭 Actualmente construyendo **Itza Studio**, convirtiendo procesos manuales repetitivos en software
 - 🧠 Enfocado en automatización asistida por IA, diseño de sistemas deterministas y herramientas de CRM/procesos
