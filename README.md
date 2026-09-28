@@ -25,6 +25,8 @@ Software developer based in Alicante, Spain. I build practical products and auto
 | [**darkroom**](https://github.com/mapusimito/darkroom) | Turns any public Google Drive folder into a cinematic media gallery — no signup, no uploads, dependency-free vanilla JS. |
 | [**Coniunctis**](https://github.com/mapusimito/Coniunctis) | AI-based productivity app, evaluated by UPEL faculty and selected for the ASOVAC awards. |
 
+If you want to know more about my private projects, or what I do; feel free to contact me here: *d4gawork@gmail.com*
+
 ### Stack
 
 `Python` `TypeScript` `React` `SQL` `HTML/CSS` `FastAPI` `Git/GitHub` `Prompt engineering` `AI automation`
@@ -52,6 +54,7 @@ Desarrollador de software con base en Alicante, España. Construyo productos pr�
 | [**darkroom**](https://github.com/mapusimito/darkroom) | Convierte cualquier carpeta pública de Google Drive en una galería cinematográfica — sin registro, sin subir archivos, JavaScript vanilla sin dependencias. |
 | [**Coniunctis**](https://github.com/mapusimito/Coniunctis) | App de productividad basada en IA, evaluada por profesores de la UPEL y seleccionada para los premios ASOVAC. |
 
+Si quieres conocer sobre mis proyectos privados, o sobre lo que hago; contáctame aquí: *d4gawork@gmail.com*
 ### Stack
 
 `Python` `TypeScript` `React` `SQL` `HTML/CSS` `FastAPI` `Git/GitHub` `Prompt engineering` `Automatización con IA`
