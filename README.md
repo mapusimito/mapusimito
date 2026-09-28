@@ -1,4 +1,4 @@
-# Hi, I'm Daniel Guanipa 👋
+# Hello there! I'm Daniel Guanipa 👋
 
 Software developer based in Alicante, Spain. I build practical products and automate workflows — Python, TypeScript, React, and whatever gets a real problem solved.
 
