@@ -1,12 +1,21 @@
 # Hello there! I'm Daniel Guanipa 👋
 
+<p>
+  <a href="#english">🇬🇧 English</a> &nbsp;·&nbsp; <a href="#espanol">🇪🇸 Español</a>
+</p>
+
+<a id="english"></a>
+<details open>
+<summary><b>🇬🇧 English</b> — click to toggle</summary>
+<br>
+
 Software developer based in Alicante, Spain. I build practical products and automate workflows — Python, TypeScript, React, and whatever gets a real problem solved.
 
 - 🔭 Currently building **Itza Studio**, turning repetitive manual processes into software
 - 🧠 Into AI-assisted automation, deterministic system design, and CRM/process tooling
 - 📫 Reach me at **d4gawork@gmail.com**
 
-## Featured projects
+### Featured projects
 
 | Project | What it does |
 |---|---|
@@ -16,15 +25,15 @@ Software developer based in Alicante, Spain. I build practical products and auto
 | [**darkroom**](https://github.com/mapusimito/darkroom) | Turns any public Google Drive folder into a cinematic media gallery — no signup, no uploads, dependency-free vanilla JS. |
 | [**Coniunctis**](https://github.com/mapusimito/Coniunctis) | AI-based productivity app, evaluated by UPEL faculty and selected for the ASOVAC awards. |
 
-## Stack
+### Stack
 
 `Python` `TypeScript` `React` `SQL` `HTML/CSS` `FastAPI` `Git/GitHub` `Prompt engineering` `AI automation`
 
----
+</details>
 
+<a id="espanol"></a>
 <details>
-<summary>🇪🇸 Versión en español</summary>
-
+<summary><b>🇪🇸 Español</b> — clic para alternar</summary>
 <br>
 
 Desarrollador de software con base en Alicante, España. Construyo productos prácticos y automatizo flujos de trabajo — Python, TypeScript, React, y lo que resuelva un problema real.
